@@ -14,8 +14,10 @@ googleAnalytics = ""
   description = "Rainbow Creations"
   copyright = "&copy;2017 Rainbow Creations"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "We have been creating custom piñatas since 2017.",
+    "Here you can find a sample of our work.",
+    "",
+    "Owners Aurora & Maria"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +31,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "admin@erikhvc.science"
+  email = "juanis.fuentes@hotmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -53,4 +55,3 @@ googleAnalytics = ""
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
   #github        = ""
-  pinterest	= ""
