@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Rainbow Creations</title>
+    <link>http://rainbowcreations.erikhvc.science/portfolio/</link>
+    <description>Recent content in Portfolios on Rainbow Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://rainbowcreations.erikhvc.science/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avocado Piñata</title>
+      <link>http://rainbowcreations.erikhvc.science/portfolio/avocado/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://rainbowcreations.erikhvc.science/portfolio/avocado/</guid>
+      <description>Avocado piñata ready for the kids to hit it and discovery the candy insed of it.</description>
+    </item>
+    
+    <item>
+      <title>Guitar</title>
+      <link>http://rainbowcreations.erikhvc.science/portfolio/guitar/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://rainbowcreations.erikhvc.science/portfolio/guitar/</guid>
+      <description>Guitar piñata created fo a wonderfull customer.</description>
+    </item>
+    
+    <item>
+      <title>Ninja Turtle</title>
+      <link>http://rainbowcreations.erikhvc.science/portfolio/ninja/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>http://rainbowcreations.erikhvc.science/portfolio/ninja/</guid>
+      <description>Pinata created for a friend and customer Diana Anthony, a wonderfull party we had that day.</description>
+    </item>
+    
+  </channel>
+</rss>
