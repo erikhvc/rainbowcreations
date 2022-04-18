@@ -5,4 +5,4 @@ title = "Get in touch"
 
 ![This is us][1]
 
-[1]: /img/rc3.jpeg
+[1]: /img/rc2.jpeg
