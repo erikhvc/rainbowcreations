@@ -46,7 +46,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  #facebook      = "https://www.facebook.com/rainbowcreations0809"
+  facebook      = "https://www.facebook.com/rainbowcreations0809"
   #googleplus    = "full profile url in googleplus"
   #email         = "juanis.fuentes@hotmail.com"
   #twitter       = ""
