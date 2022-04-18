@@ -14,4 +14,4 @@ Entrepreneur Womens
 * UnADM Universidad Abierta y a Distancia de México 
 * University of the Incarnate Word
 
-[1]: /img/about.jpg
+[1]: /img/rc2.jpg
