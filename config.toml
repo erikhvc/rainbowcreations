@@ -30,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "juanis.fuentes@hotmail.com"
+  #email = "juanis.fuentes@hotmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -48,7 +48,7 @@ googleAnalytics = ""
   [params.social]
   facebook      = "https://www.facebook.com/rainbowcreations0809"
   #googleplus    = "full profile url in googleplus"
-  email         = "juanis.fuentes@hotmail.com"
+  #email         = "juanis.fuentes@hotmail.com"
   #twitter       = ""
   #linkedin      = ""
   #stackoverflow = "full profile url in stackoverflow"
