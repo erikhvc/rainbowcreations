@@ -11,7 +11,7 @@ Entrepreneur Womens
 
 #### Education
 
-* TBD 
 * UnADM Universidad Abierta y a Distancia de México 
+* University of the Incarnate Word
 
 [1]: /img/about.jpg
