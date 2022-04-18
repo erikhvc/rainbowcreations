@@ -7,4 +7,4 @@ title = "Guitar"
 weight = 2
 +++
 
-Guitar piñata created fo a wonderfull customer.
+Guitar piñata created for one of our first customers.
